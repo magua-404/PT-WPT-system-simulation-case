@@ -1,0 +1,2 @@
+.asc文件为LTspice软件的仿真文件；
+.psimsch文件为PSIM软件的仿真文件。
